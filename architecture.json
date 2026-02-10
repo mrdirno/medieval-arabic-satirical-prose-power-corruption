@@ -1,0 +1,77 @@
+{
+  "book_id": "medieval-arabic-satirical-prose-power-corruption",
+  "title": "The Subcutaneous Hum of Victory",
+  "tagline": "In a city where a pigeon's flight can topple empires, a fallen poet tutors a youth in the corrosive infrastructure of power, piety, and information.",
+  "target_words": 65657,
+  "actual_words": 65657,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Satire of Bureaucracy",
+    "The Corrosion of Power",
+    "The Infrastructure of Influence",
+    "The Wisdom of Irreverence"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "Of Seed and State Seals",
+      "words": 5471
+    },
+    {
+      "ch": 2,
+      "title": "The Subtle Solvent of Silence",
+      "words": 5471
+    },
+    {
+      "ch": 3,
+      "title": "A House That Hummed with Absence",
+      "words": 5471
+    },
+    {
+      "ch": 4,
+      "title": "The Door’s Indifferent Aperture",
+      "words": 5471
+    },
+    {
+      "ch": 5,
+      "title": "The Cacophony of Absence",
+      "words": 5471
+    },
+    {
+      "ch": 6,
+      "title": "A Verdict of Verdant Wisdom",
+      "words": 5471
+    },
+    {
+      "ch": 7,
+      "title": "The Indiscreet Chorus of Mud",
+      "words": 5471
+    },
+    {
+      "ch": 8,
+      "title": "The Harp’s Unadorned Answer",
+      "words": 5471
+    },
+    {
+      "ch": 9,
+      "title": "The Grammar of a Shut Door",
+      "words": 5471
+    },
+    {
+      "ch": 10,
+      "title": "The Subcutaneous Hum of Victory",
+      "words": 5471
+    },
+    {
+      "ch": 11,
+      "title": "A Composition in Neglect",
+      "words": 5471
+    },
+    {
+      "ch": 12,
+      "title": "To Conduct the Unconductable",
+      "words": 5471
+    }
+  ]
+}
